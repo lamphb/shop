@@ -1,2 +1,4 @@
 <?php
-	echo 'hello git';
+echo 'hello git';
+
+echo 'my name is hanmeimei!';
